@@ -1,0 +1,4 @@
+E:\Solutions\Azure\AzureApp\MyAppSdk\Model\bin\Debug\Model.dll
+E:\Solutions\Azure\AzureApp\MyAppSdk\Model\bin\Debug\Model.pdb
+E:\Solutions\Azure\AzureApp\MyAppSdk\Model\obj\Debug\Model.dll
+E:\Solutions\Azure\AzureApp\MyAppSdk\Model\obj\Debug\Model.pdb
